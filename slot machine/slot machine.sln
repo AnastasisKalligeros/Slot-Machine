@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "slot machine", "slot machine\slot machine.csproj", "{F3BE5823-51F9-44E8-B6C6-B6C0D1EC504C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0FDAF624-96DB-496E-9A1B-5FE82F6A433F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3BE5823-51F9-44E8-B6C6-B6C0D1EC504C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3BE5823-51F9-44E8-B6C6-B6C0D1EC504C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3BE5823-51F9-44E8-B6C6-B6C0D1EC504C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3BE5823-51F9-44E8-B6C6-B6C0D1EC504C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F6786C0-EC68-43BA-BB05-B51CC5CA6AB8}
+	EndGlobalSection
+EndGlobal

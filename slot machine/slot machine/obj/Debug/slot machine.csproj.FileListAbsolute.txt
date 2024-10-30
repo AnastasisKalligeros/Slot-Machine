@@ -1,0 +1,83 @@
+C:\Users\tasso\source\repos\slot machine\slot machine\bin\Debug\slot machine.exe.config
+C:\Users\tasso\source\repos\slot machine\slot machine\bin\Debug\slot machine.exe
+C:\Users\tasso\source\repos\slot machine\slot machine\bin\Debug\slot machine.pdb
+C:\Users\tasso\source\repos\slot machine\slot machine\obj\Debug\slot machine.csprojAssemblyReference.cache
+C:\Users\tasso\source\repos\slot machine\slot machine\obj\Debug\slot_machine.Form1.resources
+C:\Users\tasso\source\repos\slot machine\slot machine\obj\Debug\slot_machine.Properties.Resources.resources
+C:\Users\tasso\source\repos\slot machine\slot machine\obj\Debug\slot machine.csproj.GenerateResource.cache
+C:\Users\tasso\source\repos\slot machine\slot machine\obj\Debug\slot machine.csproj.CoreCompileInputs.cache
+C:\Users\tasso\source\repos\slot machine\slot machine\obj\Debug\slot machine.exe
+C:\Users\tasso\source\repos\slot machine\slot machine\obj\Debug\slot machine.pdb
+C:\Users\tasso\source\repos\slot machine\slot machine\bin\Debug\EntityFramework.dll
+C:\Users\tasso\source\repos\slot machine\slot machine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tasso\source\repos\slot machine\slot machine\bin\Debug\System.Data.SQLite.dll
+C:\Users\tasso\source\repos\slot machine\slot machine\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\tasso\source\repos\slot machine\slot machine\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\tasso\source\repos\slot machine\slot machine\bin\Debug\EntityFramework.xml
+C:\Users\tasso\source\repos\slot machine\slot machine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tasso\source\repos\slot machine\slot machine\bin\Debug\System.Data.SQLite.xml
+C:\Users\tasso\source\repos\slot machine\slot machine\obj\Debug\slot machine.csproj.CopyComplete
+C:\Users\tasso\source\repos\slot machine\slot machine\obj\Debug\slot_machine.Form3.resources
+C:\Users\Dimitris Stylianou\Downloads\slot machine (4)\slot machine\slot machine\bin\Debug\slot machine.exe.config
+C:\Users\Dimitris Stylianou\Downloads\slot machine (4)\slot machine\slot machine\bin\Debug\slot machine.exe
+C:\Users\Dimitris Stylianou\Downloads\slot machine (4)\slot machine\slot machine\bin\Debug\slot machine.pdb
+C:\Users\Dimitris Stylianou\Downloads\slot machine (4)\slot machine\slot machine\bin\Debug\EntityFramework.dll
+C:\Users\Dimitris Stylianou\Downloads\slot machine (4)\slot machine\slot machine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dimitris Stylianou\Downloads\slot machine (4)\slot machine\slot machine\bin\Debug\System.Data.SQLite.dll
+C:\Users\Dimitris Stylianou\Downloads\slot machine (4)\slot machine\slot machine\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Dimitris Stylianou\Downloads\slot machine (4)\slot machine\slot machine\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Dimitris Stylianou\Downloads\slot machine (4)\slot machine\slot machine\bin\Debug\EntityFramework.xml
+C:\Users\Dimitris Stylianou\Downloads\slot machine (4)\slot machine\slot machine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dimitris Stylianou\Downloads\slot machine (4)\slot machine\slot machine\bin\Debug\System.Data.SQLite.xml
+C:\Users\Dimitris Stylianou\Downloads\slot machine (4)\slot machine\slot machine\obj\Debug\slot machine.csproj.AssemblyReference.cache
+C:\Users\Dimitris Stylianou\Downloads\slot machine (4)\slot machine\slot machine\obj\Debug\slot_machine.Form1.resources
+C:\Users\Dimitris Stylianou\Downloads\slot machine (4)\slot machine\slot machine\obj\Debug\slot_machine.Form3.resources
+C:\Users\Dimitris Stylianou\Downloads\slot machine (4)\slot machine\slot machine\obj\Debug\slot_machine.Properties.Resources.resources
+C:\Users\Dimitris Stylianou\Downloads\slot machine (4)\slot machine\slot machine\obj\Debug\slot machine.csproj.GenerateResource.cache
+C:\Users\Dimitris Stylianou\Downloads\slot machine (4)\slot machine\slot machine\obj\Debug\slot machine.csproj.CoreCompileInputs.cache
+C:\Users\Dimitris Stylianou\Downloads\slot machine (4)\slot machine\slot machine\obj\Debug\slot machine.csproj.CopyComplete
+C:\Users\Dimitris Stylianou\Downloads\slot machine (4)\slot machine\slot machine\obj\Debug\slot machine.exe
+C:\Users\Dimitris Stylianou\Downloads\slot machine (4)\slot machine\slot machine\obj\Debug\slot machine.pdb
+C:\Users\tasso\Desktop\slot machine (4)\slot machine\slot machine\bin\Debug\slot machine.exe.config
+C:\Users\tasso\Desktop\slot machine (4)\slot machine\slot machine\bin\Debug\slot machine.exe
+C:\Users\tasso\Desktop\slot machine (4)\slot machine\slot machine\bin\Debug\slot machine.pdb
+C:\Users\tasso\Desktop\slot machine (4)\slot machine\slot machine\bin\Debug\EntityFramework.dll
+C:\Users\tasso\Desktop\slot machine (4)\slot machine\slot machine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tasso\Desktop\slot machine (4)\slot machine\slot machine\bin\Debug\System.Data.SQLite.dll
+C:\Users\tasso\Desktop\slot machine (4)\slot machine\slot machine\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\tasso\Desktop\slot machine (4)\slot machine\slot machine\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\tasso\Desktop\slot machine (4)\slot machine\slot machine\bin\Debug\EntityFramework.xml
+C:\Users\tasso\Desktop\slot machine (4)\slot machine\slot machine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tasso\Desktop\slot machine (4)\slot machine\slot machine\bin\Debug\System.Data.SQLite.xml
+C:\Users\tasso\Desktop\slot machine (4)\slot machine\slot machine\obj\Debug\slot machine.csprojAssemblyReference.cache
+C:\Users\tasso\Desktop\slot machine (4)\slot machine\slot machine\obj\Debug\slot_machine.Form1.resources
+C:\Users\tasso\Desktop\slot machine (4)\slot machine\slot machine\obj\Debug\slot_machine.Form3.resources
+C:\Users\tasso\Desktop\slot machine (4)\slot machine\slot machine\obj\Debug\slot_machine.Properties.Resources.resources
+C:\Users\tasso\Desktop\slot machine (4)\slot machine\slot machine\obj\Debug\slot machine.csproj.GenerateResource.cache
+C:\Users\tasso\Desktop\slot machine (4)\slot machine\slot machine\obj\Debug\slot machine.csproj.CoreCompileInputs.cache
+C:\Users\tasso\Desktop\slot machine (4)\slot machine\slot machine\obj\Debug\slot machine.csproj.CopyComplete
+C:\Users\tasso\Desktop\slot machine (4)\slot machine\slot machine\obj\Debug\slot machine.exe
+C:\Users\tasso\Desktop\slot machine (4)\slot machine\slot machine\obj\Debug\slot machine.pdb
+C:\Users\tasso\Desktop\ΑΛΕΠΗΣ\slot machine\slot machine\bin\Debug\slot machine.exe.config
+C:\Users\tasso\Desktop\ΑΛΕΠΗΣ\slot machine\slot machine\bin\Debug\slot machine.exe
+C:\Users\tasso\Desktop\ΑΛΕΠΗΣ\slot machine\slot machine\bin\Debug\slot machine.pdb
+C:\Users\tasso\Desktop\ΑΛΕΠΗΣ\slot machine\slot machine\bin\Debug\EntityFramework.dll
+C:\Users\tasso\Desktop\ΑΛΕΠΗΣ\slot machine\slot machine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tasso\Desktop\ΑΛΕΠΗΣ\slot machine\slot machine\bin\Debug\System.Data.SQLite.dll
+C:\Users\tasso\Desktop\ΑΛΕΠΗΣ\slot machine\slot machine\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\tasso\Desktop\ΑΛΕΠΗΣ\slot machine\slot machine\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\tasso\Desktop\ΑΛΕΠΗΣ\slot machine\slot machine\bin\Debug\EntityFramework.xml
+C:\Users\tasso\Desktop\ΑΛΕΠΗΣ\slot machine\slot machine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tasso\Desktop\ΑΛΕΠΗΣ\slot machine\slot machine\bin\Debug\System.Data.SQLite.xml
+C:\Users\tasso\Desktop\ΑΛΕΠΗΣ\slot machine\slot machine\obj\Debug\slot machine.csprojAssemblyReference.cache
+C:\Users\tasso\Desktop\ΑΛΕΠΗΣ\slot machine\slot machine\obj\Debug\slot_machine.Form1.resources
+C:\Users\tasso\Desktop\ΑΛΕΠΗΣ\slot machine\slot machine\obj\Debug\slot_machine.Form3.resources
+C:\Users\tasso\Desktop\ΑΛΕΠΗΣ\slot machine\slot machine\obj\Debug\slot_machine.Properties.Resources.resources
+C:\Users\tasso\Desktop\ΑΛΕΠΗΣ\slot machine\slot machine\obj\Debug\slot machine.csproj.GenerateResource.cache
+C:\Users\tasso\Desktop\ΑΛΕΠΗΣ\slot machine\slot machine\obj\Debug\slot machine.csproj.CoreCompileInputs.cache
+C:\Users\tasso\Desktop\ΑΛΕΠΗΣ\slot machine\slot machine\obj\Debug\slot machine.csproj.CopyComplete
+C:\Users\tasso\Desktop\ΑΛΕΠΗΣ\slot machine\slot machine\obj\Debug\slot machine.exe
+C:\Users\tasso\Desktop\ΑΛΕΠΗΣ\slot machine\slot machine\obj\Debug\slot machine.pdb
+C:\Users\tasso\Desktop\ΑΛΕΠΗΣ\slot machine\slot machine\obj\Debug\slot_machine.Form2.resources
+C:\Users\tasso\Desktop\ΜΑΘΗΜΑΤΑ ΜΕΧΡΙ 4ο ΕΤΟΣ\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ 2021-2022\slot machine\slot machine\obj\Debug\slot machine.exe
+C:\Users\tasso\Desktop\ΜΑΘΗΜΑΤΑ ΜΕΧΡΙ 4ο ΕΤΟΣ\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ 2021-2022\slot machine\slot machine\obj\Debug\slot machine.pdb
