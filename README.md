@@ -12,13 +12,16 @@ The application was implemented in Visual C# visual-parallel programming languag
 
 • <b>Login Form </b> </br> </br>
 
-![Screenshot 2024-10-29 090213](https://github.com/user-attachments/assets/4efd2f2a-d1ef-46b2-a838-846205f35aaf) </br> </br>
+![381018504-4efd2f2a-d1ef-46b2-a838-846205f35aaf](https://github.com/user-attachments/assets/05bddf35-4b99-47de-98f6-d9ce709e1599)
+ </br> </br>
 
 • <b>Main Form</b> </br> </br>
 
-![image](https://github.com/user-attachments/assets/be1dda9b-82e5-4227-982f-0839d53b9ff6) </br> </br>
+![381019180-be1dda9b-82e5-4227-982f-0839d53b9ff6](https://github.com/user-attachments/assets/170ad684-8d48-4358-b94f-479455eefec6)
+</br> </br>
 
 • <b>Main Form with Four Columns</b> </br> </br>
 
-![image](https://github.com/user-attachments/assets/dc4cbfac-77d5-498e-9d8f-24df0f6f73e3)
+![381019577-dc4cbfac-77d5-498e-9d8f-24df0f6f73e3](https://github.com/user-attachments/assets/6c6477a7-842f-45cc-8f5a-c9cc42bea861)
+
 
